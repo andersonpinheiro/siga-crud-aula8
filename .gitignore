@@ -1,0 +1,6 @@
+# Ignora diretórios e binários gerados pelo Java
+bin/
+*.class
+
+# Ignora arquivos de metadados do macOS
+.DS_Store
